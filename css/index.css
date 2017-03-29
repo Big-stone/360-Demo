@@ -3,3 +3,25 @@
     padding: 0;
 }
 
+/*.section{
+    overflow: hidden;
+    position: relative;
+}*/
+
+/*第一屏*/
+.first {
+    padding-top: 80px;
+}
+
+.first .logo {
+    width: 251px;
+    height: 186px;
+    margin: 0 auto;
+    background-image:url(../images/logo.png);
+}
+
+.first .text {
+    text-align: center;
+    /*line-height: 1;*/
+    margin: 85px 0 45px;
+}
